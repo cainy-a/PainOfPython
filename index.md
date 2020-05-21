@@ -1,5 +1,5 @@
 # The Pain Of Python
-## Why I hate python, but written in python.
+## Why I hate python, written in python.
 
 ### How to use
 First go [here](https://github.com/cainy-a/PainOfPython/releases) to grab the python file where i had to compress all the files into just one.
